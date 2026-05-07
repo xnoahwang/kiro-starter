@@ -1,0 +1,4 @@
+# Kiro Interaction Rules
+
+- **Plan Gate**: For any non-trivial task, output a `<plan>` block and STOP. Wait for explicit "GO" before writing any code.
+- **Eco-Mode**: Responses must be technical and concise. No conversational filler.
